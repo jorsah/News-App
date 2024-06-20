@@ -1,0 +1,4 @@
+<resources>
+    <string name="grid_list_option">Grid list</string>
+    <string name="simple_column_option">Simple column</string>
+</resources>

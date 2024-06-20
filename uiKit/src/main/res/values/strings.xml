@@ -1,0 +1,11 @@
+<resources>
+    <!--Home Screen-->
+    <string name="home_screen_title">Articles</string>
+    <string name="search_field_placeholder">Search here</string>
+    <string name="loading_failed_error">Loading Failed!</string>
+    <string name="no_connection_error">App in offline mode!</string>
+    <string name="other_errors">Please try again later!</string>
+
+    <!--Settings Screen-->
+    <string name="settings_screen_title">Settings</string>
+</resources>
